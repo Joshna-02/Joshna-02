@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Jhoshna Sai Bhargavi
 
-<!--
-**Joshna-02/Joshna-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Generative AI Developer | LangChain • GPT-4 • RAG • SageMaker • LLMOps
 
-Here are some ideas to get you started:
+🚀 I specialize in building real-world AI systems using large language models (LLMs), agentic AI frameworks, and cloud-native MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+
+- 🔬 Currently building agentic GPT-4 applications for insurance triage and summarization
+- 🧠 Skilled in LangChain, AutoGPT, RAG pipelines, and fine-tuning with LoRA/QLoRA
+- ☁️ Experience deploying models on AWS SageMaker, Azure ML, and Vertex AI
+- 🛠️ Tech Stack: Python, FastAPI, PyTorch, TensorFlow, Hugging Face, FAISS, Pinecone
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| `agentic-claims-gpt4` | GPT-4 agent automates insurance triage with LangChain | LangChain, GPT-4, Streamlit |
+| `rag-chat-insurance` | Chatbot over PDF docs using RAG (FAISS + GPT) | FAISS, GPT-4, LangChain |
+| `llm-deployment-fastapi` | Deploy fine-tuned BERT models as APIs | FastAPI, Docker, SageMaker |
+
+---
+
+### 📫 Contact
+📧 jhoshnachowdary02@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/jhoshna-sai-para-026456129](https://linkedin.com/in/jhoshna-sai-para-026456129)  
+💻 GitHub: [github.com/Joshna-02](https://github.com/Joshna-02)
